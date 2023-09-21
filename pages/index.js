@@ -1,3 +1,4 @@
+'use client';
 // import './_index.scss';
 
 import './config.js';
